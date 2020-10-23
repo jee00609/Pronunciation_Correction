@@ -106,14 +106,14 @@ class PageOne(tk.Frame):
         
         #Quest 이미지
         qImage_name = 0
-        qImageLevel = "level\\level1\\image\\"
+        qImageLevel = "level/level1/image/"
         qImageDir = qImageLevel+str(qImage_name)+".jpg"
         
 
         
         #Result 이미지
         rImage_name = "base"
-        rImageLevel = "image\\"
+        rImageLevel = "image/"
         rImageDir = rImageLevel+str(rImage_name)+".jpg"
         
         #질문 문장 배열 quest sentence
@@ -208,9 +208,9 @@ class PageOne(tk.Frame):
         # \n 안 지워주면 result -500 에러
         script = script.rstrip("\n")
         #이미지 경로
-        winImg = "image\\win.jpg"
-        loseImg = "image\\lose.jpg"
-        imgDir = "image\\win.jpg"
+        winImg = "image/win.jpg"
+        loseImg = "image/lose.jpg"
+        imgDir = "image/win.jpg"
         
         result = proCorrect(script)
         pronunciationText.delete(1.0,"end")
@@ -219,9 +219,9 @@ class PageOne(tk.Frame):
         pronunciationText.tag_add("center", "1.0", "end")
         
         if result > 3:
-            imgDir = "image\\win.jpg"
+            imgDir = "image/win.jpg"
         else:
-            imgDir = "image\\lose.jpg"
+            imgDir = "image/lose.jpg"
         
         self.rLoad = Image.open(imgDir)
         self.rLoad = self.rLoad.resize((350, 200))
@@ -234,7 +234,7 @@ class PageOne(tk.Frame):
         # mp3 파일 재생
         global qImage_name
         voice_name= qImage_name
-        mp3level = "level\\level1\\audio\\"
+        mp3level = "level/level1/audio/"
         mp3Name = mp3level+str(voice_name)+".mp3"
         
         sound_dir = mp3Name
@@ -268,10 +268,10 @@ class PageOne(tk.Frame):
         
         #이미지
         num = qImage_name
-        qImageLevel = "level\\level1\\image\\"
+        qImageLevel = "level/level1/image/"
         qImageDir = qImageLevel+str(num)+".jpg"
         
-        imgDir = "image\\base.jpg"
+        imgDir = "image/base.jpg"
         
         self.load = Image.open(qImageDir)
         self.load = self.load.resize((350, 250))
@@ -309,10 +309,10 @@ class PageOne(tk.Frame):
             qImage_name = 4
         
         num = qImage_name
-        qImageLevel = "level\\level1\\image\\"
+        qImageLevel = "level/level1/image/"
         qImageDir = qImageLevel+str(num)+".jpg"
         
-        imgDir = "image\\base.jpg"
+        imgDir = "image/base.jpg"
         
         self.load = Image.open(qImageDir)
         self.load = self.load.resize((350, 250))
@@ -349,14 +349,14 @@ class PageTwo(tk.Frame):
         
         #Quest 이미지
         qImage_name2 = 0
-        qImageLevel = "level\\level2\\image\\"
+        qImageLevel = "level/level2/image/"
         qImageDir = qImageLevel+str(qImage_name2)+".jpg"
         
 
         
         #Result 이미지
         rImage_name = "base"
-        rImageLevel = "image\\"
+        rImageLevel = "image/"
         rImageDir = rImageLevel+str(rImage_name)+".jpg"
         
         #질문 문장 배열 quest sentence
@@ -450,9 +450,9 @@ class PageTwo(tk.Frame):
         # \n 안 지워주면 result -500 에러
         script = script.rstrip("\n")
         #이미지 경로
-        winImg = "image\\win.jpg"
-        loseImg = "image\\lose.jpg"
-        imgDir = "image\\win.jpg"
+        winImg = "image/win.jpg"
+        loseImg = "image/lose.jpg"
+        imgDir = "image/win.jpg"
         
         result = proCorrect(script)
         pronunciationText2.delete(1.0,"end")
@@ -461,9 +461,9 @@ class PageTwo(tk.Frame):
         pronunciationText2.tag_add("center", "1.0", "end")
         
         if result > 3:
-            imgDir = "image\\win.jpg"
+            imgDir = "image/win.jpg"
         else:
-            imgDir = "image\\lose.jpg"
+            imgDir = "image/lose.jpg"
         
         self.rLoad = Image.open(imgDir)
         self.rLoad = self.rLoad.resize((350, 200))
@@ -476,7 +476,7 @@ class PageTwo(tk.Frame):
         # mp3 파일 재생
         global qImage_name2
         voice_name= qImage_name2
-        mp3level = "level\\level2\\audio\\"
+        mp3level = "level/level2/audio/"
         mp3Name = mp3level+str(voice_name)+".mp3"
         
         sound_dir = mp3Name
@@ -510,10 +510,10 @@ class PageTwo(tk.Frame):
         
         #이미지
         num = qImage_name2
-        qImageLevel = "level\\level2\\image\\"
+        qImageLevel = "level/level2/image/"
         qImageDir = qImageLevel+str(num)+".jpg"
         
-        imgDir = "image\\base.jpg"
+        imgDir = "image/base.jpg"
         
         self.load = Image.open(qImageDir)
         self.load = self.load.resize((350, 250))
@@ -551,10 +551,10 @@ class PageTwo(tk.Frame):
             qImage_name2 = 4
         
         num = qImage_name2
-        qImageLevel = "level\\level2\\image\\"
+        qImageLevel = "level/level2/image/"
         qImageDir = qImageLevel+str(num)+".jpg"
         
-        imgDir = "image\\base.jpg"
+        imgDir = "image/base.jpg"
         
         self.load = Image.open(qImageDir)
         self.load = self.load.resize((350, 250))
@@ -591,13 +591,13 @@ class PageThree(tk.Frame):
         
         #Quest 이미지
         qImage_name3 = 0
-        qImageLevel = "level\\level3\\image\\"
+        qImageLevel = "level/level3/image/"
         qImageDir = qImageLevel+str(qImage_name3)+".jpg"
         
         
         #Result 이미지
         rImage_name = "base"
-        rImageLevel = "image\\"
+        rImageLevel = "image/"
         rImageDir = rImageLevel+str(rImage_name)+".jpg"
         
         #질문 문장 배열 quest sentence
@@ -691,9 +691,9 @@ class PageThree(tk.Frame):
         # \n 안 지워주면 result -500 에러
         script = script.rstrip("\n")
         #이미지 경로
-        winImg = "image\\win.jpg"
-        loseImg = "image\\lose.jpg"
-        imgDir = "image\\win.jpg"
+        winImg = "image/win.jpg"
+        loseImg = "image/lose.jpg"
+        imgDir = "image/win.jpg"
         
         result = proCorrect(script)
         pronunciationText3.delete(1.0,"end")
@@ -702,9 +702,9 @@ class PageThree(tk.Frame):
         pronunciationText3.tag_add("center", "1.0", "end")
         
         if result > 3:
-            imgDir = "image\\win.jpg"
+            imgDir = "image/win.jpg"
         else:
-            imgDir = "image\\lose.jpg"
+            imgDir = "image/lose.jpg"
         
         self.rLoad = Image.open(imgDir)
         self.rLoad = self.rLoad.resize((350, 200))
@@ -717,7 +717,7 @@ class PageThree(tk.Frame):
         # mp3 파일 재생
         global qImage_name3
         voice_name= qImage_name3
-        mp3level = "level\\level3\\audio\\"
+        mp3level = "level/level3/audio/"
         mp3Name = mp3level+str(voice_name)+".mp3"
         
         sound_dir = mp3Name
@@ -751,10 +751,10 @@ class PageThree(tk.Frame):
         
         #이미지
         num = qImage_name3
-        qImageLevel = "level\\level3\\image\\"
+        qImageLevel = "level/level3/image/"
         qImageDir = qImageLevel+str(num)+".jpg"
         
-        imgDir = "image\\base.jpg"
+        imgDir = "image/base.jpg"
         
         self.load = Image.open(qImageDir)
         self.load = self.load.resize((350, 250))
@@ -792,10 +792,10 @@ class PageThree(tk.Frame):
             qImage_name3 = 4
         
         num = qImage_name3
-        qImageLevel = "level\\level3\\image\\"
+        qImageLevel = "level/level3/image/"
         qImageDir = qImageLevel+str(num)+".jpg"
         
-        imgDir = "image\\base.jpg"
+        imgDir = "image/base.jpg"
         
         self.load = Image.open(qImageDir)
         self.load = self.load.resize((350, 250))
