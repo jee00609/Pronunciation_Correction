@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/31675804/97802770-2615eb00-1c89-11eb-84ee-596ec8bfd82f.gif" width="90%"></img>
 
 ## 비고
-  * [초등학교 영어 문장초등학교 영어 문장](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
+  * [초등학교 영어 문장](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
   
   * [공공 인공지능 오픈 API·DATA 서비스 포털의 발음 교정 API](http://aiopen.etri.re.kr/index.php)
 
@@ -61,7 +61,7 @@ It was created using sentences from English conversation in elementary school in
 <img src="https://user-images.githubusercontent.com/31675804/97802770-2615eb00-1c89-11eb-84ee-596ec8bfd82f.gif" width="90%"></img>
 
 ## remarks
-  * [Elementary English sentences Elementary school English sentences](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=en&ct= clnk&gl=kr)
+  * [Elementary English sentences](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
   
   * [Pronunciation Correction API](http://aiopen.etri.re.kr/index.php)
 
