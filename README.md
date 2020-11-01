@@ -28,6 +28,8 @@
 
 ## 비고
   * [초등학교 영어 문장초등학교 영어 문장](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
+  
+  * [공공 인공지능 오픈 API·DATA 서비스 포털의 발음 교정 API](http://aiopen.etri.re.kr/index.php)
 
   * [프로젝트 전문](https://github.com/jee00609/Pronunciation_Correction)
   
@@ -60,5 +62,7 @@ It was created using sentences from English conversation in elementary school in
 
 ## remarks
   * [Elementary English sentences Elementary school English sentences](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=en&ct= clnk&gl=kr)
+  
+  * [Pronunciation Correction API] (http://aiopen.etri.re.kr/index.php)
 
   * [Project full text](https://github.com/jee00609/Pronunciation_Correction)
