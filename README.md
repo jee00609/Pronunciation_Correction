@@ -37,9 +37,9 @@
   
   ## What is a pronunciation correction program?
 
-This is an English education content for elementary school students created using the [Pronunciation Correction API] (http://aiopen.etri.re.kr/index.php) of the public AI open API·DATA service portal.
+This is an English education content for elementary school students created using the [Pronunciation Correction API](http://aiopen.etri.re.kr/index.php) of the public AI open API·DATA service portal.
 
-It was created using sentences from English conversation in elementary school in 2003 on the blog of [School Teacher Blogger] (https://hsamnonsul.tistory.com/), and visually expresses the score by evaluating the user's English pronunciation.
+It was created using sentences from English conversation in elementary school in 2003 on the blog of [School Teacher Blogger](https://hsamnonsul.tistory.com/), and visually expresses the score by evaluating the user's English pronunciation.
 
 ## How to use
 
