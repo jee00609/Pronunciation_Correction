@@ -61,14 +61,14 @@ It was created using sentences from English conversation in elementary school in
 
 <figure class="align-center">
   <img src="/assets/images/2020-11-01-PC.png">
-  <figcaption>Use image</figcaption>
+  <figcaption>사용 이미지</figcaption>
 </figure>
 
 ### Real play screen video
 
 <figure class="align-center">
   <img src="/assets/images/2020-11-01-PC-robot.gif">
-  <figcaption>Appearance used in robot</figcaption>
+  <figcaption>로봇에서 사용한 모습</figcaption>
 </figure>
 
 ## remarks
