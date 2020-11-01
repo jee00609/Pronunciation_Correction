@@ -46,7 +46,7 @@ It was created using sentences from English conversation in elementary school in
   2. Select Level.
       1. Press the voice button and the sentence to be pronounced is played.
       2. Press the rec button to record your sentence for up to 5 seconds.
-      3. Go! Visualize the evaluation of the user's pronunciation at the push of a button.
+      3. Press the Go! button to visualize the evaluation of the user's pronunciation
 
 ## image
 
