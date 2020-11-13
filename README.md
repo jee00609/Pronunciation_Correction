@@ -1,6 +1,7 @@
 ## 발음교정 문서
 
-   * Step 1. [공공 인공지능 오픈 API 발음 교정 - 초등학생을 위한 발음교정 프로그램 소개](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection/)
+   * Step 1. [ETRI 공공 인공지능 오픈 API 발음 교정 - 초등학생을 위한 발음교정 프로그램](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection/)
+   * Step 2. [ETRI 공공 인공지능 오픈 API 발음 교정 - ETRI API 발음 평가 사용법](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection-ETRIAPI-Error/)
 
 ## 발음 교정 프로그램이란
 
