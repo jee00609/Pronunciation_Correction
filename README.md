@@ -63,10 +63,6 @@ It was created using sentences from English conversation in elementary school in
 
 ## Video
 
-여러 기능들을 연속해서 촬영하다보니 로봇 모터 선의 접촉 불량으로 움직이지 않고 있지만 실제로는 작동합니다.
-
-프로젝트 문서에는 기본용, 카메라용, 모터용 3개의 파일이 존재합니다
-
 [실제 영상 6초부터](https://www.youtube.com/watch?v=8BnY6X5w1r8)
 
 ## remarks
