@@ -61,6 +61,14 @@ It was created using sentences from English conversation in elementary school in
 
 <img src="https://user-images.githubusercontent.com/31675804/97802770-2615eb00-1c89-11eb-84ee-596ec8bfd82f.gif" width="90%"></img>
 
+## Video
+
+여러 기능들을 연속해서 촬영하다보니 로봇 모터 선의 접촉 불량으로 움직이지 않고 있지만 실제로는 작동합니다.
+
+프로젝트 문서에는 기본용, 카메라용, 모터용 3개의 파일이 존재합니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8BnY6X5w1r8?start=46" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## remarks
   * [Elementary English sentences](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
   
