@@ -67,7 +67,7 @@ It was created using sentences from English conversation in elementary school in
 
 프로젝트 문서에는 기본용, 카메라용, 모터용 3개의 파일이 존재합니다
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8BnY6X5w1r8?start=46" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[실제 영상 6초부터](https://www.youtube.com/watch?v=8BnY6X5w1r8)
 
 ## remarks
   * [Elementary English sentences](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
