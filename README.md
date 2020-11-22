@@ -9,6 +9,10 @@
    * Step 1. [ETRI 공공 인공지능 오픈 API 발음 교정 - 초등학생을 위한 발음교정 프로그램](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection/)
    * Step 2. [ETRI 공공 인공지능 오픈 API 발음 교정 - ETRI API 발음 평가 사용법](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection-ETRIAPI-Error/)
 
+## 준비사항
+
+procor.py 파일에 발급받은 ETRI API를 넣어줍시다. 
+
 ## 사용법
 
   1. pronunciationCorrection 파일을 실행한다.
